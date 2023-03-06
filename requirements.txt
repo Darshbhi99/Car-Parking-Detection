@@ -1,0 +1,9 @@
+certifi==2022.12.7
+cvzone==1.5.6
+numpy==1.24.2
+opencv-python==4.7.0.72
+pickle-mixin==1.0.2
+pip==22.3.1
+setuptools==65.6.3
+wheel==0.38.4
+wincertstore==0.2
